@@ -11,7 +11,7 @@ uid: aff73d43-8cf1-f46b-b310-834c85da9e7d
 ---
 ## Required Text
 
-\[WS\] = Stuntz, William J. *The Collapse of American Criminal Justice*. Belknap Press, 2011. ISBN: 9780674051751. \[Preview with {{% resource_link "0bf7b4bd-c1ba-472e-8f98-187e147349cb" "Google Books" %}}\]
+\[WS\] = Stuntz, William J. *The Collapse of American Criminal Justice*. Belknap Press, 2011. ISBN: 9780674051751. \[Preview with [Google Books](http://books.google.com/books?id=nEHgwemq0nYC&printsec=frontcover)\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -27,11 +27,11 @@ READINGS
 Introduction
 {{< tdclose >}}{{< tdopen >}}
 
-"{{% resource_link "a8c8a511-db47-4cec-9d23-6e04bb747693" "Black and White and Blue: A Debate" %}}," *The New York Times*, September 1, 2014.
+"[Black and White and Blue: A Debate](http://www.nytimes.com/roomfordebate/2014/09/01/black-and-white-and-blue)," *The New York Times*, September 1, 2014.
 
 ### Watch
 
-Last Week Tonight with John Oliver. "Last Week Tonight with John Oliver: Ferguson, MO and Police Militarization (HBO)." August 17, 2014. YouTube. Accessed on June 17, 2016. {{% resource_link "ae121884-acda-4890-bc6e-2143767d2cba" "https://www.youtube.com/watch?v=KUdHIatS36A" %}}
+Last Week Tonight with John Oliver. "Last Week Tonight with John Oliver: Ferguson, MO and Police Militarization (HBO)." August 17, 2014. YouTube. Accessed on June 17, 2016. [https://www.youtube.com/watch?v=KUdHIatS36A](https://www.youtube.com/watch?v=KUdHIatS36A)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -41,9 +41,9 @@ In Search of Paradigms: History, Social Science, Politics, and Law
 
 \[WS\] pp. 1–59.
 
-Whitman, James Q. "{{% resource_link "9ff2b89c-f8f9-46c1-bffd-25a55de11095" "What Happened to Tocqueville's America?" %}}" *Social Research* 74, no. 2 (2007): 251–68.
+Whitman, James Q. "[What Happened to Tocqueville's America?](http://www.jstor.org/stable/40971932)" *Social Research* 74, no. 2 (2007): 251–68.
 
-Steiker, Carol. "{{% resource_link "aa139d9d-90f7-4412-a888-1c3352d84b19" "Why We're So Tough on Crime" %}}." *Boston Review,* October / November 2003.
+Steiker, Carol. "[Why We're So Tough on Crime](http://bostonreview.net/books-ideas/carol-s-steiker-why-we%E2%80%99re-so-tough-crime)." *Boston Review,* October / November 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -53,7 +53,7 @@ The Question of Race and the Uses of History
 
 Alexander, Michelle. *The New Jim Crow: Mass Incarceration in the Age of Colorlindness*. The New Press, 2010, pp. 1–57. ISBN: 9781595581037.
 
-Forman, James, Jr. "{{% resource_link "d57526e5-26d8-4d9f-8a4f-00a2e2474866" "Racial Critiques of Mass Incarceration: Beyond the New Jim Crow" %}}," *New York University Law Review* 87, no. 21 (2012): 101–46.
+Forman, James, Jr. "[Racial Critiques of Mass Incarceration: Beyond the New Jim Crow](https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=260432)," *New York University Law Review* 87, no. 21 (2012): 101–46.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -73,7 +73,7 @@ From the Gilded Age to the 1990s
 
 \[WS\] Chapters 7–9.
 
-Stevens, John Paul. "{{% resource_link "286ac0b7-6acd-4280-a2ad-550369a67164" "Our 'Broken' System of Criminal Justice" %}}." *New York Review of Books*, November 2011.
+Stevens, John Paul. "[Our 'Broken' System of Criminal Justice](http://bit.ly/1sZVkGS)." *New York Review of Books*, November 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part Two: Case Studies**
@@ -83,13 +83,13 @@ Stevens, John Paul. "{{% resource_link "286ac0b7-6acd-4280-a2ad-550369a67164" "O
 Making History Count: The Death Penalty and Felon Disenfranchisement
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "6170e906-93fc-4845-ac0e-f3c0ee614629" "*McKleskey v. Kemp*" %}}, 481 U.S. 279 (1987).
+[*McKleskey v. Kemp*](https://supreme.justia.com/cases/federal/us/481/279/case.html), 481 U.S. 279 (1987).
 
-The Sentencing Project. "{{% resource_link "6e3b7ffa-b43f-4f85-bea8-a82869c3333c" "Felony Disenfranchisement Laws in the United States" %}}." 2013.
+The Sentencing Project. "[Felony Disenfranchisement Laws in the United States](http://www.sentencingproject.org/detail/publication.cfm?publication_id=15)." 2013.
 
-{{% resource_link "7410192a-1b69-4846-abc1-15ae6ff7055f" "*Johnson v. Governor of Florida*" %}}, 405 F.3d 1214 (11{{< sup "th" >}} Cir. 2005).
+[*Johnson v. Governor of Florida*](http://openjurist.org/405/f3d/1214/johnson-v-governor-of-state-of-florida), 405 F.3d 1214 (11{{< sup "th" >}} Cir. 2005).
 
-Holloway, Pippa. *Living in Infamy: Felon Disenfranchisement and the History of American Citizenship*. Oxford University Press, 2014, pp. 1–14. ISBN: 9780199976089. \[Preview with {{% resource_link "3cd1444c-410b-42fc-89e4-70fa19857b21" "Google Books" %}}\]
+Holloway, Pippa. *Living in Infamy: Felon Disenfranchisement and the History of American Citizenship*. Oxford University Press, 2014, pp. 1–14. ISBN: 9780199976089. \[Preview with [Google Books](http://books.google.com/books?id=ITFnAQAAQBAJ&pg=PA1#v=onepage)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -97,13 +97,13 @@ Holloway, Pippa. *Living in Infamy: Felon Disenfranchisement and the History of 
 The War on Drugs
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "13a6567b-26d1-483a-aefb-c877cf99aebb" "*State v. Pigford*" %}}, 922 So. 2d 517 (La. 2006).
+[*State v. Pigford*](https://www.courtlistener.com/opinion/1694070/state-v-pigford/?), 922 So. 2d 517 (La. 2006).
 
-{{% resource_link "b6fe0195-ba83-42b3-9f6a-53388423496c" "*United States v. Armstrong*" %}}, 517 U.S. 456 (1996).
+[*United States v. Armstrong*](https://www.law.cornell.edu/supct/html/95-157.ZO.html), 517 U.S. 456 (1996).
 
 ### Watch
 
-PBS NewsHour. "Watch Attorney General Eric Holder Announce Major Changes to Criminal Justice System." August 12, 2013. YouTube. Accessed on June 17, 2015. {{% resource_link "9eceb0b0-5667-4694-b67e-4b7f9124298e" "https://www.youtube.com/watch?v=oteyZs8Yvv4" %}}. (Speech on mandatory minimum drug sentences) (Approximately 30 minutes)
+PBS NewsHour. "Watch Attorney General Eric Holder Announce Major Changes to Criminal Justice System." August 12, 2013. YouTube. Accessed on June 17, 2015. [https://www.youtube.com/watch?v=oteyZs8Yvv4](https://www.youtube.com/watch?v=oteyZs8Yvv4). (Speech on mandatory minimum drug sentences) (Approximately 30 minutes)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -111,11 +111,11 @@ PBS NewsHour. "Watch Attorney General Eric Holder Announce Major Changes to Crim
 Controlling the Police
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "0787c7f4-136a-4f2f-acfe-20a68a5e6523" "*Whren v. United States*" %}}, 517 U.S. 806 (1996).
+[*Whren v. United States*](https://www.law.cornell.edu/supct/html/95-5841.ZO.html), 517 U.S. 806 (1996).
 
-{{% resource_link "74c8c02d-ebde-468d-985c-1e4be996c11d" "*Chicago v. Morales*" %}}, 527 U.S. 41 (1999).
+[*Chicago v. Morales*](https://supreme.justia.com/cases/federal/us/527/41/case.html), 527 U.S. 41 (1999).
 
-{{% resource_link "39c8edda-ac3d-4620-9cf3-a3a905f19f44" "*Maryland v. King*" %}}, 133 S. Ct. 1958 (2013).
+[*Maryland v. King*](https://law.lclark.edu/live/news/22380-maryland-v-king-133-s-ct-1958-2013), 133 S. Ct. 1958 (2013).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -125,17 +125,17 @@ Plea Bargaining and Sentencing: The Role of Prosecutors and Judges
 
 Israel, Jerold, and Yale Kamisar, eds. "Materials on Plea Bargaining." In *Criminal Procedure and the Constitution, Leading Supreme Court Cases and Introductory Text*. West, 2012, pp. 618–43. ISBN: 9780314281234.
 
-Kutateladze, Besiki Luka, and Nancy R. Andiloro. "{{% resource_link "aeb14296-7a20-41cb-bfda-18c214ea6692" "Prosecution and Racial Justice in New York County" %}}." *Vera Institute of Justice Report* (2014): iv–xvi.
+Kutateladze, Besiki Luka, and Nancy R. Andiloro. "[Prosecution and Racial Justice in New York County](https://www.ncjrs.gov/pdffiles1/nij/grants/247227.pdf)." *Vera Institute of Justice Report* (2014): iv–xvi.
 
-Hornby, D. Brock. {{% resource_link "a851b544-1d03-41b1-a5c4-b0dd8f0ee4f6" "\"Speaking in Sentences,\" (PDF)" %}} 14 Green Bag 2d 141 (2011).
+Hornby, D. Brock. ["Speaking in Sentences," (PDF)](http://www.greenbag.org/v14n2/v14n2_articles_hornby.pdf) 14 Green Bag 2d 141 (2011).
 
-{{% resource_link "08d561f8-877d-4470-83d9-b10aa9a7a3f3" "Press release on Madonna Say case" %}}
+[Press release on Madonna Say case](http://www.justice.gov/usao-ma/pr/boston-area-couple-charged-sex-trafficking-child)
 
 Unseal indictment in U.S. v. Cruz et al.
 
 FBI affidavit in U.S. v. Mynor Garcia.
 
-Class trip to {{% resource_link "e57a2b8a-8a5b-4c34-9b24-d46beea71e8d" "Boston Federal Court" %}}
+Class trip to [Boston Federal Court](http://www.mad.uscourts.gov/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -143,15 +143,15 @@ Class trip to {{% resource_link "e57a2b8a-8a5b-4c34-9b24-d46beea71e8d" "Boston F
 Judging Innocence and Guilt
 {{< tdclose >}}{{< tdopen >}}
 
-Alvarez, Lizette, and Cara Buckley. "{{% resource_link "122eedba-fab8-4771-b86d-2439e270b56b" "Zimmerman is Acquitted in Trayvon Martin Killing" %}}," *The New York Times*, July 13, 2013.
+Alvarez, Lizette, and Cara Buckley. "[Zimmerman is Acquitted in Trayvon Martin Killing](http://nyti.ms/1unALq0)," *The New York Times*, July 13, 2013.
 
-Weiser, Benjamin. "{{% resource_link "009f9c27-72ca-49c0-8e41-d7385b96cff0" "5 Exonerated in Central Park Jogger Case Agree to Settle Suit for $40 Million" %}}," *The New York Times*, June 19, 2014.
+Weiser, Benjamin. "[5 Exonerated in Central Park Jogger Case Agree to Settle Suit for $40 Million](http://nyti.ms/1psE21q)," *The New York Times*, June 19, 2014.
 
-Katz, Jonathan M., and Erik Eckholm. "{{% resource_link "bc062951-1617-43d6-a522-3b3d3b1d40dd" "DNA Evidence Clears Two Men in 1983 Murder" %}}," *The New York Times*, September 2, 2014.
+Katz, Jonathan M., and Erik Eckholm. "[DNA Evidence Clears Two Men in 1983 Murder](http://nyti.ms/1waf5Of)," *The New York Times*, September 2, 2014.
 
 ### Watch
 
-{{% resource_link "42eaa61e-fb5a-4f51-b0ce-0f23202e97e0" "*The Central Park Five*" %}}. Directed by Ken Burns. Color and Black & White, 119 min. 2012. (Followed by discussion)
+[*The Central Park Five*](http://www.imdb.com/title/tt2380247/). Directed by Ken Burns. Color and Black & White, 119 min. 2012. (Followed by discussion)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part Three: National Security Policing**
@@ -161,21 +161,21 @@ Katz, Jonathan M., and Erik Eckholm. "{{% resource_link "bc062951-1617-43d6-a522
 Ferguson, Race, and the Militarization of Local Police Forces
 {{< tdclose >}}{{< tdopen >}}
 
-Rakoff, Jed. "{{% resource_link "d95024d7-e452-400e-a14e-7dac405cbeca" "Why Innocent People Plead Guilty" %}}." *The New York Review of Books*, November 2014.
+Rakoff, Jed. "[Why Innocent People Plead Guilty](http://bit.ly/10sIc4F)." *The New York Review of Books*, November 2014.
 
-{{% resource_link "1a64b161-d5be-4174-84bb-30e74bbe1afd" "Materials on the George Zimmerman / Travyon Martin case" %}}.
+[Materials on the George Zimmerman / Travyon Martin case](http://nyti.ms/1GtF3Ta).
 
-{{% resource_link "61318e9e-1224-4fef-b90c-3a6d52f68afe" "The Florida Self–defense Statute" %}}.
+[The Florida Self–defense Statute](http://bit.ly/1s9Q8OU).
 
-{{% resource_link "264e1535-3f8e-4cf9-afa5-a9a8da35c642" "NY Times Q&A on the Ferguson case" %}}.
+[NY Times Q&A on the Ferguson case](http://www.nytimes.com/interactive/2014/08/13/us/ferguson-missouri-town-under-siege-after-police-shooting.html).
 
-Coates, Ta–Nehisi. "{{% resource_link "3ebf6e2d-2e99-4af1-8f87-b7895b730254" "Reparations for Ferguson" %}}." *The Atlantic*, August 18, 2014.
+Coates, Ta–Nehisi. "[Reparations for Ferguson](https://www.theatlantic.com/national/archive/2014/08/Reparations-For-Ferguson/376098/)." *The Atlantic*, August 18, 2014.
 
 Gordon Reed, Annette. "U.S. has Yet to Overcome its Tortured Racial Past," *The Financial Times*, August 2014.
 
-MacGillis, Alec. "{{% resource_link "b00da18c-d909-499a-8bc5-307857ac0573" "Those War–ready Cops in Ferguson Are 9 / 11's Awful Legacy—and Your Taxes Are Paying for It" %}}." *The New Republic*, August 2014.
+MacGillis, Alec. "[Those War–ready Cops in Ferguson Are 9 / 11's Awful Legacy—and Your Taxes Are Paying for It](http://bit.ly/1oR97k5)." *The New Republic*, August 2014.
 
-Beavers, Elizabeth R., and Michael Shank. "{{% resource_link "b3f43a74-11a4-4ea0-aab7-e473991a2665" "Ferguson Shows the Risks of Militarized Policing" %}}," *The New York Times*, August 14, 2014.
+Beavers, Elizabeth R., and Michael Shank. "[Ferguson Shows the Risks of Militarized Policing](http://nyti.ms/1ux67JV)," *The New York Times*, August 14, 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -183,17 +183,17 @@ Beavers, Elizabeth R., and Michael Shank. "{{% resource_link "b3f43a74-11a4-4ea0
 Are Illegal Aliens "Criminals"?
 {{< tdclose >}}{{< tdopen >}}
 
-Ngai, Mae M. "{{% resource_link "b172f00b-dfb6-4bf8-a399-87a9ae78289a" "The Strange Career of the Illegal Alien: Immigration Restriction and Deportation Policy in the United States, 1921–1956" %}}." *Law and History Review* 21, no. 1 (2003): 69–108.
+Ngai, Mae M. "[The Strange Career of the Illegal Alien: Immigration Restriction and Deportation Policy in the United States, 1921–1956](http://dx.doi.org/10.2307/3595069)." *Law and History Review* 21, no. 1 (2003): 69–108.
 
-Sklansky, David. "{{% resource_link "d8805a2d-4799-44a8-8bbd-5c6148c24b50" "Crime, Immigration and Ad Hoc Instrumentalism (PDF - 3.3MB)" %}}." *15 New Criminal Law Review* 157 (2012).
+Sklansky, David. "[Crime, Immigration and Ad Hoc Instrumentalism (PDF - 3.3MB)](http://www.antoniocasella.eu/nume/Sklansky_2012.pdf)." *15 New Criminal Law Review* 157 (2012).
 
-Giovagnoli, Mary. "{{% resource_link "0c2bba71-ea25-40c2-b7b0-b77a2851c98a" "Overhauling Immigration Law: A Brief History and Basic Principles of Reform" %}}," Immigration Policy Center White Paper.
+Giovagnoli, Mary. "[Overhauling Immigration Law: A Brief History and Basic Principles of Reform](https://www.americanimmigrationcouncil.org/research/overhauling-immigration-law-brief-history-and-basic-principles-reform)," Immigration Policy Center White Paper.
 
 ### Suggested
 
-Shear, Michael D. "{{% resource_link "16440bb9-0dfc-4ac3-84d6-22333a819319" "For Obama, Executive Order on Immigration Would be a Turnabout" %}}," *The New York Times*, November 17, 2014.
+Shear, Michael D. "[For Obama, Executive Order on Immigration Would be a Turnabout](http://www.nytimes.com/2014/11/18/us/by-using-executive-order-on-immigration-obama-would-reverse-long-held-stance.html)," *The New York Times*, November 17, 2014.
 
-———. "{{% resource_link "1cac6f03-2b11-4e5e-847e-a3f976ffb32d" "Obama, Daring Congress, Acts to Overhaul Immigration" %}}," *The New York Times*, November 20, 2014.
+———. "[Obama, Daring Congress, Acts to Overhaul Immigration](http://www.nytimes.com/2014/11/21/us/obama-immigration-speech.html?hp&action=click&pgtype=Homepage&module=first-column-region®ion=top-news&WT.nav=top-news&_r=1)," *The New York Times*, November 20, 2014.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -201,13 +201,13 @@ Shear, Michael D. "{{% resource_link "16440bb9-0dfc-4ac3-84d6-22333a819319" "For
 Legal Process and Civil Liberties – from WWII to the War on Terror
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "63030df8-14d1-4aab-9cee-756df40a7f0f" "*Korematsu v. United States*" %}}, 323 U.S. 214 (1944).
+[*Korematsu v. United States*](https://supreme.justia.com/cases/federal/us/323/214/), 323 U.S. 214 (1944).
 
-{{% resource_link "d4109416-fffc-4ba9-9e92-2891ba05afef" "*Ex Parte Endo*" %}}, 323 U.S. 283 (1944).
+[*Ex Parte Endo*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=323&invol=283), 323 U.S. 283 (1944).
 
 Cole, David. *Enemy Aliens: Double Standards and Constitutional Freedoms in the War on Terrorism*. New Press, 2005, pp. 85–104. ISBN: 9781565849389.
 
-Saito, Natsu Taylor. "{{% resource_link "62b8bf80-074f-464d-b682-b6f85cb95ad0" "Symbolism under Siege: Japanese American Redress and the 'Racing' of Arab Americans as Terrorists (PDF - 2.0MB)" %}}." *Asian American Law Journal at Berkeley Law* 8, no. 1 (2001).
+Saito, Natsu Taylor. "[Symbolism under Siege: Japanese American Redress and the 'Racing' of Arab Americans as Terrorists (PDF - 2.0MB)](https://lawcat.berkeley.edu/record/1117590/files/fulltext.pdf)." *Asian American Law Journal at Berkeley Law* 8, no. 1 (2001).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -215,13 +215,13 @@ Saito, Natsu Taylor. "{{% resource_link "62b8bf80-074f-464d-b682-b6f85cb95ad0" "
 Counter–Terrorism Law Today
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "40038227-cac1-4945-af64-850ca68f086d" "*United States v. El–Mezain*" %}}, 664 F.3d 467 (5{{< sup "th" >}} Cir. 2011)
+[*United States v. El–Mezain*](http://www.leagle.com/decision/In%20FCO%2020111227070.xml/U.S.%20v.%20EL-MEZAIN), 664 F.3d 467 (5{{< sup "th" >}} Cir. 2011)
 
 Malek, Alia, ed. *Patriot Acts: Narratives of Post–9 / 11 Injustice*. McSweeney's, 2011, pp. 187–206. ISBN: 9781936365388.
 
 ### Optional
 
-{{% resource_link "fbdb3a18-bef6-4cf1-ace3-0d6a1aa0f3e8" "Further background on the El–Mezain case" %}}.
+[Further background on the El–Mezain case](http://www.charityandsecurity.org/litigation/Summary_Fifth_Circuit_HLF_Decision).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -231,6 +231,6 @@ Concluding Discussion
 
 \[WS\] pp. 283–312.
 
-Goode, Erica. "{{% resource_link "87ab50e0-1477-485f-8e88-c1870fa20668" "Internet Lets a Criminal Past Catch Up Quicker" %}}," *The New York Times*, April 28, 2011.
+Goode, Erica. "[Internet Lets a Criminal Past Catch Up Quicker](http://nyti.ms/1w6goOb)," *The New York Times*, April 28, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

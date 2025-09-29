@@ -36,7 +36,7 @@ _Below, Prof. Ghachem describes various aspects of how he taught_ 21H.319 Race, 
 
 ### The Impact of Ferguson
 
-The course was already designed to address the kinds of issues involving race-inflected police-citizen interactions that figured in Ferguson and elsewhere, but since these events were unfolding at the very time of our course, the “Black Lives Matter” movement led me to add several readings and to hold ongoing discussions that spoke directly to the issues of the day, including developments relating to {{% resource_link "d5b6a19a-95d1-4a69-913e-aeae238233e6" "“Black Lives Matter” activism on the MIT campus" %}} itself.
+The course was already designed to address the kinds of issues involving race-inflected police-citizen interactions that figured in Ferguson and elsewhere, but since these events were unfolding at the very time of our course, the “Black Lives Matter” movement led me to add several readings and to hold ongoing discussions that spoke directly to the issues of the day, including developments relating to [“Black Lives Matter” activism on the MIT campus](http://news.mit.edu/2014/black-lives-matter-event-1211) itself.
 
 ### Teaching through Debates
 
@@ -108,7 +108,7 @@ During an average week, students were expected to spend 12 hours on the course, 
 - Met 1 session per week for 3 hours per session; 15 sessions total; mandatory attendance.
 - Class sessions regularly included discussions and viewing media related to current cases.
 - Two class sessions included debates.
-- One session included a fieldtrip to the {{% resource_link "e57a2b8a-8a5b-4c34-9b24-d46beea71e8d" "Federal Court in Boston" %}}.
+- One session included a fieldtrip to the [Federal Court in Boston](http://www.mad.uscourts.gov/).
 
 ### Out of Class
 

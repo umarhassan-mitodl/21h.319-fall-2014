@@ -5,6 +5,8 @@ description: Example of student work for a writing assignment analyzing a chosen
 file: /courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/410998d039212a660bfeddbc6e49547e_MIT21H_319F14_Illegalmmigr.pdf
 file_size: 493927
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
