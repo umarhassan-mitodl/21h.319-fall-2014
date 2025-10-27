@@ -6,8 +6,6 @@ description: Example of student work for a writing assignment critiquing Stuntz 
 file: /courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/59ec18469e7f47492a9e100133c2ccd9_MIT21H_319F14_StuntzCritiq.pdf
 file_size: 80226
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,0 +1,11 @@
+---
+content_type: external-resource
+external_url: "http://www.nytimes.com/2014/11/21/us/obama-immigration-speech.html?hp&action=click&pgtype=Homepage&module=first-column-region\xAE\
+  ion=top-news&WT.nav=top-news&_r=1"
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: Obama, Daring Congress, Acts to Overhaul Immigration
+uid: 4022a6ad-b2ab-4131-8015-167f4ad18f6e
+wayback_url: ''
+---
